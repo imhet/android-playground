@@ -1,1 +1,1 @@
-include ':app', ':SmsManager', ':DownloadManager'
+include ':app', ':SmsManager', ':DownloadManager', ':GetApk'
