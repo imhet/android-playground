@@ -2,7 +2,7 @@
 
 一些平时写的demo .
 
-## SmsManager 短信管理
+## SmsManager
 
 - 调起系统短信发送界面
 - 发送短信
